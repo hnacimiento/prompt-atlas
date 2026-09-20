@@ -1,6 +1,14 @@
 # Prompt Atlas 🧭
 
-> Una colección abierta de prompts, ideas y recursos para explorar, aprender y trabajar mejor con inteligencia artificial.
+> 🇪🇸 Una colección abierta de prompts, ideas y recursos para explorar, aprender y trabajar mejor con inteligencia artificial.
+>
+> 🇺🇸 An open collection of prompts, ideas, and resources for exploring, learning, and working better with artificial intelligence.
+
+**[🇪🇸 Español](#espanol) · [🇺🇸 English](#english)**
+
+---
+
+<a id="espanol"></a>
 
 ## 🇪🇸 Español
 
@@ -18,11 +26,11 @@ La idea es ofrecer recursos que puedas **entender, probar, adaptar y hacer tuyos
 
 La colección puede incluir:
 
-* prompts listos para copiar, probar y adaptar;
-* ejemplos de uso;
-* pequeñas guías o notas sobre cada recurso;
-* variantes y versiones de una misma idea;
-* experimentos, enfoques y otras herramientas que puedan resultar útiles o interesantes.
+- prompts listos para copiar, probar y adaptar;
+- ejemplos de uso;
+- pequeñas guías o notas sobre cada recurso;
+- variantes y versiones de una misma idea;
+- experimentos, enfoques y otras herramientas que puedan resultar útiles o interesantes.
 
 La colección crecerá con el tiempo y no pretende ser definitiva.
 
@@ -116,7 +124,11 @@ Este proyecto se distribuye bajo la **Licencia MIT**.
 
 Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
 
+[⬆ Volver al inicio](#prompt-atlas)
+
 ---
+
+<a id="english"></a>
 
 ## 🇺🇸 English
 
@@ -134,11 +146,11 @@ The goal is to provide resources that you can **understand, try, adapt, and make
 
 The collection may include:
 
-* ready-to-use prompts you can copy, test, and adapt;
-* usage examples;
-* small guides or notes about each resource;
-* variations and versions of the same idea;
-* experiments, approaches, and other tools that may be useful or interesting.
+- ready-to-use prompts you can copy, test, and adapt;
+- usage examples;
+- small guides or notes about each resource;
+- variations and versions of the same idea;
+- experiments, approaches, and other tools that may be useful or interesting.
 
 The collection will grow over time and is not meant to be definitive.
 
@@ -231,6 +243,8 @@ Use them as **tools to experiment, learn, and build**.
 This project is distributed under the **MIT License**.
 
 See the [LICENSE](LICENSE) file for the full terms.
+
+[⬆ Back to top](#prompt-atlas)
 
 ---
 
