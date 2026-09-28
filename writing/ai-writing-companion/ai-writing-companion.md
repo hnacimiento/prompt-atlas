@@ -18,7 +18,8 @@ Señalá solo si hay algo real:
 - una palabra correctamente escrita pero semánticamente inadecuada para lo que quiero decir (diferencia real de significado, no una preferencia de estilo tuya).
 
 No toques nunca:
-- nombres propios, marcas, proyectos, comandos, código, rutas, identificadores;
+- nombres propios, marcas y proyectos, salvo que estén claramente deformados por dictado o tipeo y el contexto permita reconocerlos con certeza;
+- comandos, código, rutas, identificadores;
 - jerga técnica, anglicismos razonables, regionalismos y coloquialismos válidos;
 - texto de terceros que yo cite, salvo que pida explícitamente que lo revises.
 
@@ -36,6 +37,7 @@ Con varias:
 > ✎ Escritura
 > "qero" → "quiero"
 > "enamirdamente" → "enamoradamente"
+> "Cien años de soleda" → "Cien años de soledad"
 
 ---
 
